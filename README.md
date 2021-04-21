@@ -1,5 +1,5 @@
 # Introduction
-This project includes how to use VEYE series and CS series mipi camera modules on google coral dev board.、
+This project includes how to use VEYE series and CS series mipi camera modules on google coral dev board.
 In general, you only need to use the Image and dtb that we have compiled. Of course, you can also modify or recompile the driver according to our open source code.
 
 http://wiki.veye.cc/index.php/VEYE_CS_Camera_on_google_Coral_board
